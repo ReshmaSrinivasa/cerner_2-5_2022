@@ -1,4 +1,5 @@
-# cerner_2tothe5th_2022
+#cerner_2tothe5th_2022
+#cerner_2^5_2022
 # Find square root of a number
 
 puts "Enter a number:"
