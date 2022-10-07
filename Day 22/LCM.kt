@@ -1,5 +1,5 @@
 //cerner_2tothe5th_2022
-//Kotlin code to find LCM of two numbers
+
 fun main(args: Array<String>) {
     val n1 = 72
     val n2 = 120
